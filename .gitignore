@@ -1,0 +1,6 @@
+.DS_Store
+FitUploader.log
+build/
+dist/
+*.egg-info/
+__pycache__/
