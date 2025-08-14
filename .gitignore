@@ -1,4 +1,5 @@
 .DS_Store
+.venv
 FitUploader.log
 build/
 dist/

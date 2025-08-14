@@ -12,4 +12,4 @@ This version improves OS compatibility detection, adds detailed logging, and enh
 - **Detailed logging** of detected files and upload status.
 - **Patched FIT file manager** with backward compatibility for existing methods.
 
-<img width="1439" height="873" alt="Image" src="https://github.com/user-attachments/assets/ca4ee7a5-81b7-49a2-b2d6-9a989fa6a369" />
+<img width="1439" height="873" alt="Image" src="https://github.com/user-attachments/assets/29d9cddf-ab0a-4b40-b589-8cba8504150c" />
